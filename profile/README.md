@@ -45,8 +45,8 @@ Nossa visão é...
 
 | Integrante | GitHub |
 |---|---|
-| Bruno | [@usuario]((https://github.com/brunorod07)) |
-| jamila | [@usuario]((https://github.com/jmcardoso18)) |
+| Bruno | [@usuario](https://github.com/brunorod07) |
+| jamila | [@usuario](https://github.com/jmcardoso18) |
 | Nome | [@usuario](LINK) |
 | Nome | [@usuario](LINK) |
 | Nome | [@usuario](LINK) |
