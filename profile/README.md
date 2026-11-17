@@ -10,7 +10,7 @@
 
 ## Sobre Nós
 
-Apresentação da organização e sua finalidade.
+Nós somos uma equipe criado a partir do projeto integrador (PI) da FATEC ARARAS Nosso grupo foi formado para desenvolver projetos e inovadores que causem impacto positivo
 
 ## Missão
 
@@ -18,7 +18,7 @@ Nossa missão é...
 
 ## Visão
 
-Nossa visão é...
+Aplicação web voltada para cantinas escolares e outros estabelecimentos do ramo alimentício que trabalham com controle de créditos e consumo. O sistema tem como objetivo automatizar o gerenciamento de créditos dos clientes, facilitar o acompanhamento do consumo em tempo real e melhorar a comunicação entre a empresa e os responsáveis. Além disso, a plataforma busca reduzir erros financeiros, aumentar a transparência das informações e proporcionar uma gestão mais prática, organizada e segura para a administração do estabelecimento.
 
 ## Valores
 
@@ -53,4 +53,4 @@ Nossa visão é...
 
 ---
 
-Desenvolvido por 
+Desenvolvido por BJKMP-Squad
