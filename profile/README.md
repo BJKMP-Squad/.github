@@ -45,11 +45,11 @@ Nossa visão é...
 
 | Integrante | GitHub |
 |---|---|
-| Bruno | [@usuario](https://github.com/brunorod07) |
-| jamila | [@usuario](https://github.com/jmcardoso18) |
-| Nome | [@usuario](LINK) |
-| Nome | [@usuario](LINK) |
-| Nome | [@usuario](LINK) |
+| Bruno | [@brunorod07](https://github.com/brunorod07) |
+| jamila | [@jmcardoso18](https://github.com/jmcardoso18) |
+| Karina | [@KaSantos0100](https://github.com/KaSantos0100) |
+| Marcos | [@mobmaz](https://github.com/mobmaz) |
+| Patrick | [@PatrickFranzini](https://github.com/PatrickFranzini) |
 
 ---
 
