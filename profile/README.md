@@ -1,7 +1,7 @@
 # Nome da Organização
 
 <p align="center">
-  <img src="https://lh3.googleusercontent.com/u/0/d/1zqQSh7B6VkeRkcHS2rruKRlixQ2JsDzL=w1910-h915-iv1?auditContext=forDisplay" width="180">
+  <img src="https://lh3.googleusercontent.com/u/0/d/1zqQSh7B6VkeRkcHS2rruKRlixQ2JsDzL=w1910-h915-iv1?auditContext=forDisplay" width="240">
 </p>
 
 <h3 align="center">
