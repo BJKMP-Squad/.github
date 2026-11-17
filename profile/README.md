@@ -32,7 +32,7 @@ Aplicação web voltada para cantinas escolares e outros estabelecimentos do ram
 | Projeto | Descrição | Repositório |
 |---|---|---|
 | Projeto 1 | Descrição | [Acessar](https://github.com/BJKMP-Squad/.github/tree/main/projeto-1) |
-| Projeto 2 | Descrição | [Acessar](LINK) |
+| Projeto 2 | Descrição | [Acessar](https://github.com/BJKMP-Squad/.github/tree/main/projeto-2) |
 
 ## Tecnologias
 
