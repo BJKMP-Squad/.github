@@ -37,7 +37,7 @@ Aplicação web voltada para cantinas escolares e outros estabelecimentos do ram
 
 | Projeto | Descrição | Repositório |
 |---|---|---|
-| Cantina fácil | Descrição | [Acessar](https://github.com/BJKMP-Squad/flutter_cantina_facil) |
+| Cantina fácil | Projeto principal nosso do PI | [Acessar](https://github.com/BJKMP-Squad/flutter_cantina_facil) |
 
 ## Tecnologias
 
