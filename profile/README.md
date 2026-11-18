@@ -14,7 +14,13 @@ Nós somos uma equipe criado a partir do projeto integrador (PI) da FATEC ARARAS
 
 ## Missão
 
-Nossa missão é...
+O projeto consiste em uma aplicação web voltada para cantinas escolares e estabelecimentos do ramo alimentício que trabalham com controle de créditos e consumo. Seus principais objetivos e metas são:
+
+- Automatizar o gerenciamento de créditos dos clientes
+- Facilitar o acompanhamento do consumo em tempo real
+- Melhorar a comunicação entre a empresa e os responsáveis
+- Reduzir erros financeiros e aumentar a transparência das informações
+- Proporcionar uma gestão prática, organizada e segura para a administração do estabelecimento
 
 ## Visão
 
